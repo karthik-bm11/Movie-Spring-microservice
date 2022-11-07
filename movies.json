@@ -1,0 +1,18 @@
+[
+ {
+	"id":2,
+	"name":"kaantara",
+	"desc":"Thriller folklore movie with a taste of nativity",
+	"director":"Rishab",
+	"language":"Kannada",
+	"actor":["Rishab","Kishore"]
+ },
+ {
+	"id":3,
+	"name":"black adam",
+	"desc":"DC comics action movie",
+	"director":"Jaume Collet",
+	"language":"English",
+	"actor":["Dwayne Johnson","Henry Cavill"]
+ }
+]
